@@ -1,0 +1,2 @@
+hola {'count': 7, 'file': {'texto1': 4, 'texto2': 1, 'texto3': 2}}
+mundo {'count': 5, 'file': {'texto1': 3, 'texto3': 2}}
